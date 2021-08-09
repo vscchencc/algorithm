@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+      "target": "es5",
+      "strict": true,
+      "checkJs": true,
+      "declaration": true,
+      "allowJs": true,
+      "composite": true,
+      "lib": ["es6", "dom", "es2015.collection"]
+  }
+}
